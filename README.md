@@ -1,4 +1,4 @@
-# tensorflow_text
+# Tensorflow_text
 
 ## Các công cụ xử lý văn bản cho Tensorflow
 
@@ -45,28 +45,28 @@ def preprocess(vocab_table, example_text):
 
 1. Tiền xử lý từ đầu đến cuối
 
-Học cách thực hiện tiền xử lý văn bản từ đầu đến cuối bằng BERT
+> Học cách thực hiện tiền xử lý văn bản từ đầu đến cuối bằng BERT
 
 2. Token hoá từ con
 
-Học cách tạo bộ từ vựng từ con từ văn bản
+> Học cách tạo bộ từ vựng từ con từ văn bản
 
 ## Phân loại văn bản
 
 3. Phân loại văn bản với BERT
 
-Học cách phân loại văn bản với mô hình BERT
+> Học cách phân loại văn bản với mô hình BERT
 
 4. Phân loại văn bản với RNNs
 
-Phân loại văn bản sử dụng Mạng Thần kinh Hồi quy (*Recurrent Neural Networks*)
+> Phân loại văn bản sử dụng Mạng Thần kinh Hồi quy (*Recurrent Neural Networks*)
 
 ## Tạo văn bản
 
 5. Dịch văn bản với các mô hình chuyển đổi
 
-Sử dụng các mô hình Chuyển đổi để dịch văn bản
+> Sử dụng các mô hình Chuyển đổi để dịch văn bản
 
 6. Dịch văn bản với các mô hình seq2seq
 
-Học cách dịch văn bản với các mô hình sequence-to-sequence
+> Học cách dịch văn bản với các mô hình sequence-to-sequence
