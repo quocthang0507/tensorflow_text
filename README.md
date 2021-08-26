@@ -43,30 +43,30 @@ def preprocess(vocab_table, example_text):
 
 ## Tiền xử lý văn bản
 
-1. Tiền xử lý từ đầu đến cuối
+[1. Tiền xử lý từ đầu đến cuối](bert_preprocessing_guide.ipynb)
 
 > Học cách thực hiện tiền xử lý văn bản từ đầu đến cuối bằng BERT
 
-2. Token hoá từ con
+[2. Token hoá từ con](subwords_tokenizer.ipynb)
 
 > Học cách tạo bộ từ vựng từ con từ văn bản
 
 ## Phân loại văn bản
 
-3. Phân loại văn bản với BERT
+[3. Phân loại văn bản với BERT](classify_text_with_bert.ipynb)
 
 > Học cách phân loại văn bản với mô hình BERT
 
-4. Phân loại văn bản với RNNs
+[4. Phân loại văn bản với RNNs](text_classification_rnn.ipynb)
 
 > Phân loại văn bản sử dụng Mạng Thần kinh Hồi quy (*Recurrent Neural Networks*)
 
 ## Tạo văn bản
 
-5. Dịch văn bản với các mô hình chuyển đổi
+[5. Dịch văn bản với các mô hình chuyển đổi](transformer.ipynb)
 
 > Sử dụng các mô hình Chuyển đổi để dịch văn bản
 
-6. Dịch văn bản với các mô hình seq2seq
+[6. Dịch văn bản với các mô hình seq2seq](nmt_with_attention.ipynb)
 
 > Học cách dịch văn bản với các mô hình sequence-to-sequence
