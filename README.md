@@ -45,16 +45,28 @@ def preprocess(vocab_table, example_text):
 
 1. Tiền xử lý từ đầu đến cuối
 
-2. Token hoá từ phụ
+Học cách thực hiện tiền xử lý văn bản từ đầu đến cuối bằng BERT
+
+2. Token hoá từ con
+
+Học cách tạo bộ từ vựng từ con từ văn bản
 
 ## Phân loại văn bản
 
 3. Phân loại văn bản với BERT
 
+Học cách phân loại văn bản với mô hình BERT
+
 4. Phân loại văn bản với RNNs
+
+Phân loại văn bản sử dụng Mạng Thần kinh Hồi quy (*Recurrent Neural Networks*)
 
 ## Tạo văn bản
 
 5. Dịch văn bản với các mô hình chuyển đổi
 
+Sử dụng các mô hình Chuyển đổi để dịch văn bản
+
 6. Dịch văn bản với các mô hình seq2seq
+
+Học cách dịch văn bản với các mô hình sequence-to-sequence
