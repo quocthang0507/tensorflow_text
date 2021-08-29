@@ -63,9 +63,9 @@ def preprocess(vocab_table, example_text):
 
 ## Tạo văn bản
 
-[5. Dịch văn bản với các mô hình chuyển đổi](transformer.ipynb)
+[5. Dịch văn bản với các mô hình Transformer](transformer.ipynb)
 
-> Sử dụng các mô hình Chuyển đổi để dịch văn bản
+> Sử dụng các mô hình Transformer để dịch văn bản
 
 [6. Dịch văn bản với các mô hình seq2seq](nmt_with_attention.ipynb)
 
