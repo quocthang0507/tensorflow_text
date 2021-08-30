@@ -61,7 +61,7 @@ def preprocess(vocab_table, example_text):
 
 > Phân loại văn bản sử dụng Mạng Thần kinh Hồi quy (*Recurrent Neural Networks*)
 
-## Tạo văn bản
+## Sinh văn bản
 
 [5. Dịch văn bản với các mô hình Transformer](transformer.ipynb)
 
